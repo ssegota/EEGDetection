@@ -11,8 +11,8 @@ Project was created as part of Assistive Technology class, under the Assistive T
 To properly work with the device used all the software is required to be 32 bit versions.
 
 * Python 2.7
-..* SciPy 0.9.0 
-..* NumPy 1.0.1
+* SciPy 0.9.0 
+* NumPy 1.0.1
 * OpenVibe 1.2.2
 * Emotiv Research Edition SDK v2.0.0.20
 
